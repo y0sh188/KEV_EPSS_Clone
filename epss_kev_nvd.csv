@@ -1111,3 +1111,4 @@ CVE-2021-40655,7.5,0.10459,0.95001,D-Link DIR-605 routers contain an information
 CVE-2014-100005,,0.86063,0.98562,D-Link DIR-600 routers contain a cross-site request forgery (CSRF) vulnerability that allows an attacker to change router configurations by hijacking an existing administrator session.,2024-05-16
 CVE-2024-4947,,0.00187,0.55999,Google Chromium V8 contains a type confusion vulnerability that allows a remote attacker to execute code via a crafted HTML page.,2024-05-20
 CVE-2023-43208,9.8,0.94574,0.99229,NextGen Healthcare Mirth Connect contains a deserialization of untrusted data vulnerability that allows for unauthenticated remote code execution via a specially crafted request.,2024-05-20
+CVE-2020-17519,7.5,0.9708,0.99771,Apache Flink contains an improper access control vulnerability that allows an attacker to read any file on the local filesystem of the JobManager through its REST interface.,2024-05-23
