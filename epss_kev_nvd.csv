@@ -1148,3 +1148,4 @@ CVE-2024-38193,7.8,0.00051,0.20787,"Microsoft Windows Ancillary Function Driver 
 CVE-2024-38213,6.5,0.01422,0.8675,Microsoft Windows SmartScreen contains a security feature bypass vulnerability that allows an attacker to bypass the SmartScreen user experience via a malicious file.,2024-08-13
 CVE-2024-38178,7.5,0.01613,0.87688,Microsoft Windows Scripting Engine contains a memory corruption vulnerability that allows unauthenticated attacker to initiate remote code execution via a specially crafted URL.,2024-08-13
 CVE-2024-38189,8.8,0.00806,0.82024,Microsoft Project contains an unspecified vulnerability that allows for remote code execution via a malicious file.,2024-08-13
+CVE-2024-28986,9.8,0.00071,0.31547,SolarWinds Web Help Desk contains a deserialization of untrusted data vulnerability that could allow for remote code execution.,2024-08-15
