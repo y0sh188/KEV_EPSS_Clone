@@ -1149,3 +1149,4 @@ CVE-2024-38213,6.5,0.01422,0.86757,Microsoft Windows SmartScreen contains a secu
 CVE-2024-38178,7.5,0.02297,0.89884,Microsoft Windows Scripting Engine contains a memory corruption vulnerability that allows unauthenticated attacker to initiate remote code execution via a specially crafted URL.,2024-08-13
 CVE-2024-38189,8.8,0.01346,0.86374,Microsoft Project contains an unspecified vulnerability that allows for remote code execution via a malicious file.,2024-08-13
 CVE-2024-28986,9.8,0.02983,0.9107,SolarWinds Web Help Desk contains a deserialization of untrusted data vulnerability that could allow for remote code execution.,2024-08-15
+CVE-2024-23897,9.8,0.96159,0.9955,"Jenkins Command Line Interface (CLI) contains a path traversal vulnerability that allows attackers limited read access to certain files, which can lead to code execution.",2024-08-19
