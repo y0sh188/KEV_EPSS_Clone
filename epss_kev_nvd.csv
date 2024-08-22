@@ -1150,3 +1150,7 @@ CVE-2024-38178,7.5,0.02297,0.89882,Microsoft Windows Scripting Engine contains a
 CVE-2024-38189,8.8,0.01546,0.87399,Microsoft Project contains an unspecified vulnerability that allows for remote code execution via a malicious file.,2024-08-13
 CVE-2024-28986,9.8,0.02983,0.91059,SolarWinds Web Help Desk contains a deserialization of untrusted data vulnerability that could allow for remote code execution.,2024-08-15
 CVE-2024-23897,9.8,0.97084,0.99813,"Jenkins Command Line Interface (CLI) contains a path traversal vulnerability that allows attackers limited read access to certain files, which can lead to code execution.",2024-08-19
+CVE-2021-31196,7.2,0.01258,0.85842,Microsoft Exchange Server contains an information disclosure vulnerability that allows for remote code execution.,2024-08-21
+CVE-2022-0185,8.4,0.0006,0.2635,Linux kernel contains a heap-based buffer overflow vulnerability in the legacy_parse_param function in the Filesystem Context functionality. This allows an attacker to open a filesystem that does not support the Filesystem Context API and ultimately escalate privileges.,2024-08-21
+CVE-2021-33045,9.8,0.06877,0.9402,Dahua IP cameras and related products contain an authentication bypass vulnerability when the loopback device is specified by the client during authentication.,2024-08-21
+CVE-2021-33044,9.8,0.25281,0.96758,Dahua IP cameras and related products contain an authentication bypass vulnerability when the NetKeyboard type argument is specified by the client during authentication.,2024-08-21
