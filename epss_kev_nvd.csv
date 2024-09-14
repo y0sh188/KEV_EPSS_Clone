@@ -1168,3 +1168,4 @@ CVE-2024-38217,5.4,0.00268,0.68267,"Microsoft Windows Mark of the Web (MOTW) con
 CVE-2024-38014,7.8,0.00055,0.23608,Microsoft Windows Installer contains an improper privilege management vulnerability that could allow an attacker to gain SYSTEM privileges.,2024-09-10
 CVE-2024-43491,9.8,0.02321,0.89969,Microsoft Windows Update contains a use-after-free vulnerability that allows for remote code execution.,2024-09-10
 CVE-2024-38226,7.3,0.00051,0.20771,Microsoft Publisher contains a protection mechanism failure vulnerability that allows attacker to bypass Office macro policies used to block untrusted or malicious files.,2024-09-10
+CVE-2024-8190,,0.00043,0.10232,Ivanti Cloud Services Appliance (CSA) contains an OS command injection vulnerability in the administrative console which can allow an authenticated attacker with application admin privileges to pass commands to the underlying OS.,2024-09-13
