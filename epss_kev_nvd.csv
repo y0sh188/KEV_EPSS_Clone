@@ -1,4 +1,5 @@
 CVE,CVSS3,EPSS,EPSS Percentile,Description,Date
+CVE-2024-45519,,0.00054,0.22666,Synacor Zimbra Collaboration contains an unspecified vulnerability in the postjournal service that may allow an unauthenticated user to execute commands.,2024-10-03
 CVE-2024-29824,,0.02174,0.89566,Ivanti Endpoint Manager (EPM) contains a SQL injection vulnerability in Core server that allows an unauthenticated attacker within the same network to execute arbitrary code. ,2024-10-02
 CVE-2019-0344,9.8,0.21362,0.96521,SAP Commerce Cloud (formerly known as Hybris) contains a deserialization of untrusted data vulnerability within the mediaconversion and virtualjdbc extension that allows for code injection.,2024-09-30
 CVE-2021-4043,5.5,0.00911,0.83108,Motion Spell GPAC contains a null pointer dereference vulnerability that could allow a local attacker to cause a denial-of-service (DoS) condition.,2024-09-30
