@@ -1,4 +1,5 @@
 CVE,CVSS3,EPSS,EPSS Percentile,Description,Date
+CVE-2024-9537,,0.00044,0.1387,ScienceLogic SL1 (formerly EM7) is affected by an unspecified vulnerability involving an unspecified third-party component.,2024-10-21
 CVE-2024-40711,9.8,0.96763,0.99711,Veeam Backup and Replication contains a deserialization vulnerability allowing an unauthenticated user to perform remote code execution.,2024-10-17
 CVE-2024-28987,9.1,0.96019,0.99533,"SolarWinds Web Help Desk contains a hardcoded credential vulnerability that could allow a remote, unauthenticated user to access internal functionality and modify data.",2024-10-15
 CVE-2024-9680,9.8,0.01643,0.87908,Mozilla Firefox and Firefox ESR contain a use-after-free vulnerability in Animation timelines that allows for code execution in the content process.,2024-10-15
