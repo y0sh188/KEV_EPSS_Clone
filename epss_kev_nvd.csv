@@ -1,4 +1,5 @@
 CVE,CVSS3,EPSS,EPSS Percentile,Description,Date
+CVE-2024-38094,7.2,0.00092,0.40413,Microsoft SharePoint contains a deserialization vulnerability that allows for remote code execution.,2024-10-22
 CVE-2024-9537,,0.00101,0.42449,ScienceLogic SL1 (formerly EM7) is affected by an unspecified vulnerability involving an unspecified third-party component.,2024-10-21
 CVE-2024-40711,9.8,0.96763,0.99712,Veeam Backup and Replication contains a deserialization vulnerability allowing an unauthenticated user to perform remote code execution.,2024-10-17
 CVE-2024-28987,9.1,0.96019,0.99533,"SolarWinds Web Help Desk contains a hardcoded credential vulnerability that could allow a remote, unauthenticated user to access internal functionality and modify data.",2024-10-15
