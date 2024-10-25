@@ -1,4 +1,6 @@
 CVE,CVSS3,EPSS,EPSS Percentile,Description,Date
+CVE-2024-37383,,0.00045,0.16597,RoundCube Webmail contains a cross-site scripting (XSS) vulnerability in the handling of SVG animate attributes that allows a remote attacker to run malicious JavaScript code.,2024-10-24
+CVE-2024-20481,,0.00043,0.09754,"Cisco Adaptive Security Appliance (ASA) and Firepower Threat Defense (FTD) contain a missing release of resource after effective lifetime vulnerability that could allow an unauthenticated, remote attacker to cause a denial-of-service (DoS) of the RAVPN service.",2024-10-24
 CVE-2024-47575,,0.01216,0.85703,"Fortinet FortiManager contains a missing authentication vulnerability in the fgfmd daemon that allows a remote, unauthenticated attacker to execute arbitrary code or commands via specially crafted requests.",2024-10-23
 CVE-2024-38094,7.2,0.03491,0.91743,Microsoft SharePoint contains a deserialization vulnerability that allows for remote code execution.,2024-10-22
 CVE-2024-9537,9.8,0.03641,0.91902,ScienceLogic SL1 (formerly EM7) is affected by an unspecified vulnerability involving an unspecified third-party component.,2024-10-21
