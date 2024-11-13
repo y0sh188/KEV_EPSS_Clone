@@ -1,4 +1,7 @@
 CVE,CVSS3,EPSS,EPSS Percentile,Description,Date
+CVE-2021-26086,5.3,0.85834,0.98656,Atlassian Jira Server and Data Center contain a path traversal vulnerability that allows a remote attacker to read particular files in the /WEB-INF/web.xml endpoint.,2024-11-12
+CVE-2014-2120,,0.00192,0.57681,Cisco Adaptive Security Appliance (ASA) contains a cross-site scripting (XSS) vulnerability in the WebVPN login page. This vulnerability allows remote attackers to inject arbitrary web script or HTML via an unspecified parameter.,2024-11-12
+CVE-2021-41277,7.5,0.95146,0.99401,Metabase contains a local file inclusion vulnerability in the custom map support in the API to read GeoJSON formatted data.,2024-11-12
 CVE-2019-16278,9.8,0.97419,0.99954,Nostromo nhttpd contains a directory traversal vulnerability in the http_verify() function in a non-chrooted nhttpd server allowing for remote code execution.,2024-11-07
 CVE-2024-51567,9.8,0.4013,0.9737,"CyberPanel contains an incorrect default permissions vulnerability that allows a remote, unauthenticated attacker to execute commands as root.",2024-11-07
 CVE-2024-5910,9.8,0.97099,0.99829,"Palo Alto Expedition contains a missing authentication vulnerability that allows an attacker with network access to takeover an Expedition admin account and potentially access configuration secrets, credentials, and other data.",2024-11-07
