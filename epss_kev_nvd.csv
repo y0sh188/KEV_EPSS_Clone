@@ -1,4 +1,5 @@
 CVE,CVSS3,EPSS,EPSS Percentile,Description,Date
+CVE-2024-50623,,0.00053,0.23412,"Cleo Harmony, VLTrader, and LexiCom, which are managed file transfer products, contain an unrestricted file upload and download vulnerability that can lead to remote code execution with elevated privileges.",2024-12-13
 CVE-2024-49138,7.8,0.01179,0.85689,Microsoft Windows Common Log File System (CLFS) driver contains a heap-based buffer overflow vulnerability that allows a local attacker to escalate privileges.,2024-12-10
 CVE-2024-51378,9.8,0.00211,0.59948,CyberPanel contains an incorrect default permissions vulnerability that allows for authentication bypass and the execution of arbitrary commands using shell metacharacters in the statusfile property.,2024-12-04
 CVE-2024-11667,9.8,0.01179,0.85689,Multiple Zyxel firewalls contain a path traversal vulnerability in the web management interface that could allow an attacker to download or upload files via a crafted URL.,2024-12-03
