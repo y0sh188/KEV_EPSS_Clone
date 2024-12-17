@@ -1,4 +1,6 @@
 CVE,CVSS3,EPSS,EPSS Percentile,Description,Date
+CVE-2024-35250,7.8,0.00043,0.11652,Microsoft Windows Kernel-Mode Driver contains an untrusted pointer dereference vulnerability that allows a local attacker to escalate privileges.,2024-12-16
+CVE-2024-20767,7.4,0.13142,0.95767,Adobe ColdFusion contains an improper access control vulnerability that could allow an attacker to access or modify restricted files via an internet-exposed admin panel.,2024-12-16
 CVE-2024-50623,,0.04186,0.92552,"Cleo Harmony, VLTrader, and LexiCom, which are managed file transfer products, contain an unrestricted file upload and download vulnerability that can lead to remote code execution with elevated privileges.",2024-12-13
 CVE-2024-49138,7.8,0.00154,0.53077,Microsoft Windows Common Log File System (CLFS) driver contains a heap-based buffer overflow vulnerability that allows a local attacker to escalate privileges.,2024-12-10
 CVE-2024-51378,9.8,0.00211,0.59968,CyberPanel contains an incorrect default permissions vulnerability that allows for authentication bypass and the execution of arbitrary commands using shell metacharacters in the statusfile property.,2024-12-04
