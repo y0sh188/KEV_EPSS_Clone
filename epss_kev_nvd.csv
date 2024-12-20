@@ -1,4 +1,5 @@
 CVE,CVSS3,EPSS,EPSS Percentile,Description,Date
+CVE-2024-12356,,0.00045,0.17315,"BeyondTrust Privileged Remote Access (PRA) and Remote Support (RS) contain a command injection vulnerability, which can allow an unauthenticated attacker to inject commands that are run as a site user. ",2024-12-19
 CVE-2021-40407,9.8,0.02493,0.89785,Reolink RLC-410W IP cameras contain an authenticated OS command injection vulnerability in the device network settings functionality.,2024-12-18
 CVE-2019-11001,7.2,0.15507,0.95868,"Reolink RLC-410W, C1 Pro, C2 Pro, RLC-422W, and RLC-511W IP cameras contain an authenticated OS command injection vulnerability. This vulnerability allows an authenticated admin to use the ""TestEmail"" functionality to inject and run OS commands as root.",2024-12-18
 CVE-2022-23227,9.8,0.23178,0.96565,"NUUO NVRmini 2 devices contain a missing authentication vulnerability that allows an unauthenticated attacker to upload an encrypted TAR archive, which can be abused to add arbitrary users. ",2024-12-18
