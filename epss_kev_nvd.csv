@@ -1,4 +1,5 @@
 CVE,CVSS3,EPSS,EPSS Percentile,Description,Date
+CVE-2020-11023,6.1,0.04348,0.92322,"JQuery contains a persistent cross-site scripting (XSS) vulnerability. When passing maliciously formed, untrusted input enclosed in HTML tags, JQuery's DOM manipulators can execute untrusted code in the context of the user's browser.",2025-01-23
 CVE-2024-50603,,0.01728,0.87649,"Aviatrix Controllers contain an OS command injection vulnerability that could allow an unauthenticated attacker to execute arbitrary code. Shell metacharacters can be sent to /v1/api in cloud_type for list_flightpath_destination_instances, or src_cloud_type for flightpath_connection_test.",2025-01-16
 CVE-2024-55591,9.8,0.02634,0.90153,"Fortinet FortiOS and FortiProxy contain an authentication bypass vulnerability that may allow an unauthenticated, remote attacker to gain super-admin privileges via crafted requests to Node.js websocket module.",2025-01-14
 CVE-2023-48365,9.9,0.01658,0.87386,Qlik Sense contains an HTTP tunneling vulnerability that allows an attacker to escalate privileges and execute HTTP requests on the backend server hosting the software.,2025-01-13
