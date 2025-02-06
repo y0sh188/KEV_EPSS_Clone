@@ -1,4 +1,5 @@
 CVE,CVSS3,EPSS,EPSS Percentile,Description,Date
+CVE-2024-53104,,0.00044,0.15267,Linux kernel contains an out-of-bounds write vulnerability in the uvc_parse_streaming component of the USB Video Class (UVC) driver that could allow for physical escalation of privilege.,2025-02-05
 CVE-2018-19410,9.8,0.04906,0.92777,"Paessler PRTG Network Monitor contains a local file inclusion vulnerability that allows a remote, unauthenticated attacker to create users with read-write privileges (including administrator).",2025-02-04
 CVE-2018-9276,7.2,0.811,0.98615,Paessler PRTG Network Monitor contains an OS command injection vulnerability that allows an attacker with administrative privileges to execute commands via the PRTG System Administrator web console.,2025-02-04
 CVE-2024-29059,7.5,0.69858,0.98245,"Microsoft .NET Framework contains an information disclosure vulnerability that exposes the ObjRef URI to an attacker, ultimately enabling remote code execution.",2025-02-04
