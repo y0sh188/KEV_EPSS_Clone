@@ -1,4 +1,8 @@
 CVE,CVSS3,EPSS,EPSS Percentile,Description,Date
+CVE-2020-15069,9.8,0.01005,0.83671,"Sophos XG Firewall contains a buffer overflow vulnerability that allows for remote code execution via the ""HTTP/S bookmark"" feature.",2025-02-06
+CVE-2020-29574,9.8,0.00206,0.58748,CyberoamOS (CROS) contains a SQL injection vulnerability in the WebAdmin that allows an unauthenticated attacker to execute arbitrary SQL statements remotely.,2025-02-06
+CVE-2024-21413,,0.00053,0.23848,Microsoft Outlook contains an improper input validation vulnerability that allows for remote code execution. Successful exploitation of this vulnerability would allow an attacker to bypass the Office Protected View and open in editing mode rather than protected mode.,2025-02-06
+CVE-2022-23748,7.8,0.00068,0.32412,Dante Discovery contains a process control vulnerability in mDNSResponder.exe that all allows for a DLL sideloading attack. A local attacker can leverage this vulnerability in the Dante Application Library to execute arbitrary code.,2025-02-06
 CVE-2024-53104,7.8,0.00135,0.49809,Linux kernel contains an out-of-bounds write vulnerability in the uvc_parse_streaming component of the USB Video Class (UVC) driver that could allow for physical escalation of privilege.,2025-02-05
 CVE-2018-19410,9.8,0.04906,0.9277,"Paessler PRTG Network Monitor contains a local file inclusion vulnerability that allows a remote, unauthenticated attacker to create users with read-write privileges (including administrator).",2025-02-04
 CVE-2018-9276,7.2,0.811,0.98614,Paessler PRTG Network Monitor contains an OS command injection vulnerability that allows an attacker with administrative privileges to execute commands via the PRTG System Administrator web console.,2025-02-04
