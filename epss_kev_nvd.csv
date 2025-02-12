@@ -1,4 +1,6 @@
 CVE,CVSS3,EPSS,EPSS Percentile,Description,Date
+CVE-2024-40891,8.8,0.00052,0.23167,Multiple Zyxel DSL CPE devices contain a post-authentication command injection vulnerability in the management commands that could allow an authenticated attacker to execute OS commands via Telnet.,2025-02-11
+CVE-2024-40890,8.8,0.00052,0.23167,Multiple Zyxel DSL CPE devices contain a post-authentication command injection vulnerability in the CGI program that could allow an authenticated attacker to execute OS commands via a crafted HTTP request.,2025-02-11
 CVE-2020-15069,9.8,0.0751,0.94145,"Sophos XG Firewall contains a buffer overflow vulnerability that allows for remote code execution via the ""HTTP/S bookmark"" feature.",2025-02-06
 CVE-2020-29574,9.8,0.05315,0.93042,CyberoamOS (CROS) contains a SQL injection vulnerability in the WebAdmin that allows an unauthenticated attacker to execute arbitrary SQL statements remotely.,2025-02-06
 CVE-2024-21413,9.8,0.02245,0.89396,Microsoft Outlook contains an improper input validation vulnerability that allows for remote code execution. Successful exploitation of this vulnerability would allow an attacker to bypass the Office Protected View and open in editing mode rather than protected mode.,2025-02-06
