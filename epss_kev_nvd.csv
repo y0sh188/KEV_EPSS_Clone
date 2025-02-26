@@ -1,4 +1,6 @@
 CVE,CVSS3,EPSS,EPSS Percentile,Description,Date
+CVE-2023-34192,9.0,0.27245,0.96856,Synacor Zimbra Collaboration Suite (ZCS) contains a cross-site scripting (XSS) vulnerability that allows a remote authenticated attacker to execute arbitrary code via a crafted script to the /h/autoSaveDraft function.,2025-02-25
+CVE-2024-49035,9.8,0.0019,0.57161,Microsoft Partner Center contains an improper access control vulnerability that allows an attacker to escalate privileges.,2025-02-25
 CVE-2024-20953,,0.02214,0.89367,Oracle Agile Product Lifecycle Management (PLM) contains a deserialization vulnerability that allows a low-privileged attacker with network access via HTTP to compromise the system.,2025-02-24
 CVE-2017-3066,9.8,0.97072,0.99879,Adobe ColdFusion contains a deserialization vulnerability in the Apache BlazeDS library that allows for arbitrary code execution.,2025-02-24
 CVE-2025-24989,9.8,0.02321,0.89635,Microsoft Power Pages contains an improper access control vulnerability that allows an unauthorized attacker to elevate privileges over a network potentially bypassing the user registration control.,2025-02-21
@@ -894,7 +896,7 @@ CVE-2008-3431,8.8,0.00519,0.76938,An input validation vulnerability exists in th
 CVE-2008-2992,7.8,0.93842,0.99367,Adobe Acrobat and Reader contain an input validation issue in a JavaScript method that could potentially lead to remote code execution.,2022-03-03
 CVE-2004-0210,7.8,0.00323,0.70693,A privilege elevation vulnerability exists in the POSIX subsystem. This vulnerability could allow a logged on user to take complete control of the system.,2022-03-03
 CVE-2002-0367,7.8,0.02789,0.90578,"smss.exe debugging subsystem in Microsoft Windows does not properly authenticate programs that connect to other programs, which allows local users to gain administrator or SYSTEM privileges.",2022-03-03
-CVE-2022-24682,6.1,0.0176,0.87913,Synacor Zimbra webmail clients running versions 8.8.15 P29 & P30 contain a XSS vulnerability that would allow attackers to steal session cookie files.,2022-02-25
+CVE-2022-24682,6.1,0.0176,0.87913,Synacor Zimbra Collaboration Suite (ZCS) contains a cross-site scripting (XSS) vulnerability in the Calendar feature that allows an attacker to execute arbitrary code.,2022-02-25
 CVE-2017-8570,7.8,0.93973,0.99381,A remote code execution vulnerability exists in Microsoft Office software when it fails to properly handle objects in memory.,2022-02-25
 CVE-2017-0222,8.8,0.90067,0.99086,A remote code execution vulnerability exists when Internet Explorer improperly accesses objects in memory.,2022-02-25
 CVE-2014-6352,7.8,0.95176,0.99516,Microsoft Windows allow remote attackers to execute arbitrary code via a crafted OLE object.,2022-02-25
