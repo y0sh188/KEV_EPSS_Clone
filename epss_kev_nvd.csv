@@ -1,4 +1,9 @@
 CVE,CVSS3,EPSS,EPSS Percentile,Description,Date
+CVE-2024-4885,9.8,0.04794,0.92758,Progress WhatsUp Gold contains a path traversal vulnerability that allows an unauthenticated attacker to achieve remote code execution.,2025-03-03
+CVE-2018-8639,7.8,0.00071,0.33943,"Microsoft Windows Win32k contains an improper resource shutdown or release vulnerability that allows for local, authenticated privilege escalation. An attacker who successfully exploited this vulnerability could run arbitrary code in kernel mode.",2025-03-03
+CVE-2022-43769,7.2,0.33844,0.97177,"Hitachi Vantara Pentaho BA Server contains a special element injection vulnerability that allows an attacker to inject Spring templates into properties files, allowing for arbitrary command execution.",2025-03-03
+CVE-2022-43939,9.8,0.00315,0.70404,Hitachi Vantara Pentaho BA Server contains a use of non-canonical URL paths for authorization decisions vulnerability that enables an attacker to bypass authorization.,2025-03-03
+CVE-2023-20118,7.2,0.00069,0.33222,"Multiple Cisco Small Business RV Series Routers contains a command injection vulnerability in the web-based management interface. Successful exploitation could allow an authenticated, remote attacker to gain root-level privileges and access unauthorized data.",2025-03-03
 CVE-2023-34192,9.0,0.90088,0.99096,Synacor Zimbra Collaboration Suite (ZCS) contains a cross-site scripting (XSS) vulnerability that allows a remote authenticated attacker to execute arbitrary code via a crafted script to the /h/autoSaveDraft function.,2025-02-25
 CVE-2024-49035,9.8,0.20161,0.96432,Microsoft Partner Center contains an improper access control vulnerability that allows an attacker to escalate privileges.,2025-02-25
 CVE-2024-20953,,0.02214,0.89418,Oracle Agile Product Lifecycle Management (PLM) contains a deserialization vulnerability that allows a low-privileged attacker with network access via HTTP to compromise the system.,2025-02-24
