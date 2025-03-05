@@ -1,4 +1,5 @@
 CVE,CVSS3,EPSS,EPSS Percentile,Description,Date
+CVE-2024-50302,5.5,0.00042,0.04998,The Linux kernel contains a use of uninitialized resource vulnerability that allows an attacker to leak kernel memory via a specially crafted HID report.,2025-03-04
 CVE-2024-4885,9.8,0.85382,0.98826,Progress WhatsUp Gold contains a path traversal vulnerability that allows an unauthenticated attacker to achieve remote code execution.,2025-03-03
 CVE-2018-8639,7.8,0.00573,0.78195,"Microsoft Windows Win32k contains an improper resource shutdown or release vulnerability that allows for local, authenticated privilege escalation. An attacker who successfully exploited this vulnerability could run arbitrary code in kernel mode.",2025-03-03
 CVE-2022-43769,7.2,0.9559,0.99574,"Hitachi Vantara Pentaho BA Server contains a special element injection vulnerability that allows an attacker to inject Spring templates into properties files, allowing for arbitrary command execution.",2025-03-03
