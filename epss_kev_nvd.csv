@@ -488,7 +488,7 @@ CVE-2013-6282,8.8,0.43157,0.97239,The get_user and put_user API functions of the
 CVE-2013-2597,,0.02981,0.8537,The Code Aurora audio calibration database (acdb) audio driver contains a stack-based buffer overflow vulnerability that allows for privilege escalation. Code Aurora is used in third-party products such as Qualcomm and Android.,2022-09-15
 CVE-2013-2596,7.8,0.00799,0.71894,Linux kernel fb_mmap function in drivers/video/fbmem.c contains an integer overflow vulnerability that allows for privilege escalation.,2022-09-15
 CVE-2013-2094,,0.61542,0.9819,"Linux kernel fails to check all 64 bits of attr.config passed by user space, resulting to out-of-bounds access of the perf_swevent_enabled array in sw_perf_event_destroy(). Explotation allows for privilege escalation.",2022-09-15
-CVE-2010-2568,7.8,0.93879,0.99867,Microsoft Windows incorrectly parses shortcuts in such a way that malicious code may be executed when the operating system displays the icon of a malicious shortcut file. An attacker who successfully exploited this vulnerability could execute code as the logged-on user.,2022-09-15
+CVE-2010-2568,,0.93879,0.99867,Microsoft Windows incorrectly parses shortcuts in such a way that malicious code may be executed when the operating system displays the icon of a malicious shortcut file. An attacker who successfully exploited this vulnerability could execute code as the logged-on user.,2022-09-15
 CVE-2022-37969,7.8,0.06745,0.90423,Microsoft Windows Common Log File System (CLFS) driver contains an unspecified vulnerability that allows for privilege escalation.,2022-09-14
 CVE-2022-32917,7.8,0.00091,0.23426,"Apple kernel, which is included in iOS, iPadOS, and macOS, contains an unspecified vulnerability where an application may be able to execute code with kernel privileges.",2022-09-14
 CVE-2022-3075,9.6,0.02098,0.82573,"Google Chromium Mojo contains an insufficient data validation vulnerability that allows a remote attacker, who has compromised the renderer process, to potentially perform a sandbox escape via a crafted HTML page. This vulnerability could affect multiple web browsers that utilize Chromium, including, but not limited to, Google Chrome, Microsoft Edge, and Opera.",2022-09-08
@@ -590,7 +590,7 @@ CVE-2015-1769,,0.16947,0.94437,A privilege escalation vulnerability exists when 
 CVE-2015-4495,8.8,0.86285,0.99367,Moxilla Firefox allows remote attackers to bypass the Same Origin Policy to read arbitrary files or gain privileges.,2022-05-25
 CVE-2015-8651,8.8,0.90601,0.99602,Integer overflow in Adobe Flash Player allows attackers to execute code.,2022-05-25
 CVE-2015-6175,7.8,0.01727,0.80823,The kernel in Microsoft Windows contains a vulnerability that allows local users to gain privileges via a crafted application.,2022-05-25
-CVE-2015-1671,7.8,0.76163,0.98866,"A remote code execution vulnerability exists when components of Windows, .NET Framework, Office, Lync, and Silverlight fail to properly handle TrueType fonts.",2022-05-25
+CVE-2015-1671,,0.76163,0.98866,"A remote code execution vulnerability exists when components of Windows, .NET Framework, Office, Lync, and Silverlight fail to properly handle TrueType fonts.",2022-05-25
 CVE-2014-4148,8.8,0.32397,0.96484,A remote code execution vulnerability exists when the Windows kernel-mode driver improperly handles TrueType fonts.,2022-05-25
 CVE-2014-8439,,0.22105,0.95314,Adobe Flash Player has a vulnerability in the way it handles a dereferenced memory pointer which could lead to code execution.,2022-05-25
 CVE-2014-4123,8.8,0.16838,0.94407,Microsoft Internet Explorer contains an unspecified vulnerability that allows remote attackers to gain privileges via a crafted web site.,2022-05-25
@@ -655,7 +655,7 @@ CVE-2022-22947,10.0,0.94474,0.99996,"Spring Cloud Gateway applications are vulne
 CVE-2022-1388,,0.94456,0.99993,"F5 BIG-IP contains a missing authentication in critical function vulnerability which can allow for remote code execution, creation or deletion of files, or disabling services.",2022-05-10
 CVE-2021-1789,8.8,0.00122,0.28195,"A type confusion issue affecting multiple Apple products allows processing of maliciously crafted web content, leading to arbitrary code execution.",2022-05-04
 CVE-2019-8506,8.8,0.16254,0.94283,"A type confusion issue affecting multiple Apple products allows processing of maliciously crafted web content, leading to arbitrary code execution.",2022-05-04
-CVE-2014-4113,7.8,0.78288,0.98971,Microsoft Win32k contains an unspecified vulnerability that allows for privilege escalation.,2022-05-04
+CVE-2014-4113,,0.78288,0.98971,Microsoft Win32k contains an unspecified vulnerability that allows for privilege escalation.,2022-05-04
 CVE-2014-0322,8.8,0.92679,0.99747,Use-after-free vulnerability in Microsoft Internet Explorer allows remote attackers to execute code.,2022-05-04
 CVE-2014-0160,7.5,0.94477,0.99998,"The TLS and DTLS implementations in OpenSSL do not properly handle Heartbeat Extension packets, which allows remote attackers to obtain sensitive information.",2022-05-04
 CVE-2022-29464,9.8,0.94434,0.99985,"Multiple WSO2 products allow for unrestricted file upload, resulting in remote code execution.",2022-04-25
@@ -737,7 +737,7 @@ CVE-2013-2551,8.8,0.92743,0.99753,Use-after-free vulnerability in Microsoft Inte
 CVE-2013-2465,,0.93415,0.99814,"Unspecified vulnerability in the Java Runtime Environment (JRE) component in Oracle Java SE allows remote attackers to affect confidentiality, integrity, and availability via Unknown vectors related to 2D",2022-03-28
 CVE-2013-1690,8.8,0.45919,0.97381,"Mozilla Firefox and Thunderbird do not properly handle onreadystatechange events in conjunction with page reloading, which allows remote attackers to cause a denial-of-service (DoS) or possibly execute malicious code via a crafted web site.",2022-03-28
 CVE-2012-5076,,0.9282,0.99758,The default Java security properties configuration did not restrict access to the com.sun.org.glassfish.external and com.sun.org.glassfish.gmbal packages. An untrusted Java application or applet could use these flaws to bypass Java sandbox restrictions.,2022-03-28
-CVE-2012-2539,7.8,0.81896,0.99163,Microsoft Word allows attackers to execute remote code or cause a denial-of-service (DoS) via crafted RTF data.,2022-03-28
+CVE-2012-2539,,0.81896,0.99163,Microsoft Word allows attackers to execute remote code or cause a denial-of-service (DoS) via crafted RTF data.,2022-03-28
 CVE-2012-2034,7.5,0.25628,0.95795,Adobe Flash Player contains a memory corruption vulnerability that allows for remote code execution or denial-of-service (DoS).,2022-03-28
 CVE-2012-0518,4.7,0.52292,0.97712,Unspecified vulnerability in the Oracle Application Server Single Sign-On component in Oracle Fusion Middleware allows remote attackers to affect integrity via Unknown vectors,2022-03-28
 CVE-2011-2005,7.8,0.58673,0.98044,"afd.sys in the Ancillary Function Driver in Microsoft Windows does not properly validate user-mode input passed to kernel mode, which allows local users to gain privileges via a crafted application.",2022-03-28
@@ -792,7 +792,7 @@ CVE-2015-1427,9.8,0.93526,0.99825,The Groovy scripting engine in Elasticsearch a
 CVE-2015-1187,9.8,0.7816,0.98965,The ping tool in multiple D-Link and TRENDnet devices allow remote attackers to perform remote code execution.,2022-03-25
 CVE-2015-0666,,0.81065,0.99117,Directory traversal vulnerability in the fmserver servlet in Cisco Prime Data Center Network Manager (DCNM) allows remote attackers to read arbitrary files.,2022-03-25
 CVE-2014-6332,,0.94069,0.99893,OleAut32.dll in OLE in Microsoft Windows allows remote attackers to remotely execute code via a crafted web site.,2022-03-25
-CVE-2014-6324,8.8,0.87987,0.99456,The Kerberos Key Distribution Center (KDC) in Microsoft allows remote authenticated domain users to obtain domain administrator privileges.,2022-03-25
+CVE-2014-6324,,0.87987,0.99456,The Kerberos Key Distribution Center (KDC) in Microsoft allows remote authenticated domain users to obtain domain administrator privileges.,2022-03-25
 CVE-2014-6287,9.8,0.94369,0.99959,The findMacroMarker function in parserLib.pas in Rejetto HTTP File Server (HFS or HttpFileServer) allows remote attackers to execute arbitrary programs.,2022-03-25
 CVE-2014-3120,,0.83432,0.99229,"Elasticsearch enables dynamic scripting, which allows remote attackers to execute arbitrary MVEL expressions and Java code.",2022-03-25
 CVE-2014-0130,7.5,0.20498,0.95085,Directory traversal vulnerability in actionpack/lib/abstract_controller/base.rb in the implicit-render implementation in Ruby on Rails allows remote attackers to read arbitrary files via a crafted request.,2022-03-25
@@ -897,11 +897,11 @@ CVE-2015-4902,,0.06457,0.90192,Unspecified vulnerability in Oracle Java SE allow
 CVE-2015-3043,9.8,0.86445,0.99372,A memory corruption vulnerability exists in Adobe Flash Player that allows an attacker to perform remote code execution.,2022-03-03
 CVE-2015-2590,9.8,0.68232,0.98494,An unspecified vulnerability exists within Oracle Java Runtime Environment that allows an attacker to perform remote code execution.,2022-03-03
 CVE-2015-2545,7.8,0.93252,0.998,Microsoft Office allows remote attackers to execute arbitrary code via a crafted EPS image.,2022-03-03
-CVE-2015-2424,8.8,0.5996,0.98107,Microsoft PowerPoint allows remote attackers to execute arbitrary code or cause a denial of service (memory corruption) via a crafted Office document.,2022-03-03
+CVE-2015-2424,,0.5996,0.98107,Microsoft PowerPoint allows remote attackers to execute arbitrary code or cause a denial of service (memory corruption) via a crafted Office document.,2022-03-03
 CVE-2015-2387,7.8,0.32373,0.96481,ATMFD.DLL in the Adobe Type Manager Font Driver in Microsoft Windows Server allows local users to gain privileges via a crafted application.,2022-03-03
 CVE-2015-1701,7.8,0.90769,0.99612,An unspecified vulnerability exists in the Win32k.sys kernel-mode driver in Microsoft Windows Server that allows a local attacker to execute arbitrary code with elevated privileges.,2022-03-03
 CVE-2015-1642,7.8,0.55823,0.97896,Microsoft Office contains a memory corruption vulnerability that allows remote attackers to execute arbitrary code via a crafted document.,2022-03-03
-CVE-2014-4114,7.8,0.91927,0.99688,A vulnerability exists in Windows Object Linking & Embedding (OLE) that could allow remote code execution if a user opens a file that contains a specially crafted OLE object.,2022-03-03
+CVE-2014-4114,,0.91927,0.99688,A vulnerability exists in Windows Object Linking & Embedding (OLE) that could allow remote code execution if a user opens a file that contains a specially crafted OLE object.,2022-03-03
 CVE-2014-0496,,0.66582,0.98423,Adobe Reader and Acrobat contain a use-after-free vulnerability which can allow for code execution.,2022-03-03
 CVE-2013-5065,7.8,0.58712,0.98046,Microsoft Windows NDProxy.sys in the kernel contains an improper input validation vulnerability which can allow a local attacker to escalate privileges.,2022-03-03
 CVE-2013-3897,8.8,0.86765,0.9939,A use-after-free vulnerability exists within CDisplayPointer in Microsoft Internet Explorer that allows an attacker to remotely execute arbitrary code.,2022-03-03
@@ -939,7 +939,7 @@ CVE-2018-8174,7.5,0.94283,0.99932,"A remote code execution vulnerability exists 
 CVE-2018-20250,7.8,0.93161,0.99792,WinRAR Absolute Path Traversal vulnerability leads to Remote Code Execution,2022-02-15
 CVE-2018-15982,9.8,0.93132,0.99788,Adobe Flash Player com.adobe.tvsdk.mediacore.metadata Use After Free Vulnerability,2022-02-15
 CVE-2017-9841,9.8,0.94406,0.99975,"PHPUnit allows remote attackers to execute arbitrary PHP code via HTTP POST data beginning with a ""<?php "" substring, as demonstrated by an attack on a site with an exposed /vendor folder, i.e., external access to the /vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php URI.",2022-02-15
-CVE-2014-1761,7.8,0.92944,0.9977,Microsoft Word contains a memory corruption vulnerability which when exploited could allow for remote code execution.,2022-02-15
+CVE-2014-1761,,0.92944,0.9977,Microsoft Word contains a memory corruption vulnerability which when exploited could allow for remote code execution.,2022-02-15
 CVE-2013-3906,7.8,0.92742,0.99752,Microsoft Graphics Component contains a memory corruption vulnerability which can allow for remote code execution.,2022-02-15
 CVE-2022-22620,8.8,0.02835,0.8499,"Apple iOS, iPadOS, and macOS WebKit contain a use-after-free vulnerability that leads to code execution when processing maliciously crafted web content. This vulnerability could impact HTML parsers that use WebKit, including but not limited to Apple Safari and non-Apple products which rely on WebKit for HTML processing.",2022-02-11
 CVE-2021-36934,,0.90607,0.99603,"If a Volume Shadow Copy (VSS) shadow copy of the system drive is available, users can read the SAM file which would allow any user to escalate privileges to SYSTEM level.",2022-02-10
