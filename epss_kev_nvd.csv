@@ -1,5 +1,5 @@
 CVE,CVSS3,EPSS,EPSS Percentile,Description,Date
-CVE-2025-53770,9.8,0.00275,0.50592,Microsoft SharePoint Server on-premises contains a deserialization of untrusted data vulnerability that could allow an unauthorized attacker to execute code over a network.,2025-07-20
+CVE-2025-53770,,0.00275,0.50592,Microsoft SharePoint Server on-premises contains a deserialization of untrusted data vulnerability that could allow an unauthorized attacker to execute code over a network.,2025-07-20
 CVE-2025-25257,,0.02425,0.84466,Fortinet FortiWeb contains a SQL injection vulnerability that may allow an unauthenticated attacker to execute unauthorized SQL code or commands via crafted HTTP or HTTPs requests.,2025-07-18
 CVE-2025-47812,,0.83375,0.99211,Wing FTP Server contains an improper neutralization of null byte or NUL character vulnerability that can allow injection of arbitrary Lua code into user session files. This can be used to execute arbitrary system commands with the privileges of the FTP service (root or SYSTEM by default).,2025-07-14
 CVE-2025-5777,7.5,0.20329,0.95248,"Citrix NetScaler ADC and Gateway contain an out-of-bounds read vulnerability due to insufficient input validation. This vulnerability can lead to memory overread when the NetScaler is configured as a Gateway (VPN virtual server, ICA Proxy, CVPN, RDP Proxy) OR AAA virtual server.",2025-07-10
