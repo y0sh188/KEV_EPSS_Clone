@@ -1,6 +1,6 @@
 CVE,CVSS3,EPSS,EPSS Percentile,Description,Date
-CVE-2025-8876,,0.17307,0.94766,N-able N-Central contains a command injection vulnerability via improper sanitization of user input.,2025-08-13
-CVE-2025-8875,,0.10122,0.92788,N-able N-Central contains an insecure deserialization vulnerability that could lead to command execution.,2025-08-13
+CVE-2025-8876,8.8,0.17307,0.94766,N-able N-Central contains a command injection vulnerability via improper sanitization of user input.,2025-08-13
+CVE-2025-8875,7.8,0.10122,0.92788,N-able N-Central contains an insecure deserialization vulnerability that could lead to command execution.,2025-08-13
 CVE-2025-8088,8.8,0.32406,0.96683,RARLAB WinRAR contains a path traversal vulnerability affecting the Windows version of WinRAR. This vulnerability could allow an attacker to execute arbitrary code by crafting malicious archive files.,2025-08-12
 CVE-2020-25078,7.5,0.94264,0.99926,D-Link DCS-2530L and DCS-2670L devices contains an unspecified vulnerability that could allow for remote administrator password disclosure. The impacted products could be end-of-life (EoL) and/or end-of-service (EoS). Users should discontinue product utilization.,2025-08-05
 CVE-2020-25079,8.8,0.5488,0.97941,D-Link DCS-2530L and DCS-2670L devices contains a command injection vulnerability in the cgi-bin/ddns_enc.cgi. The impacted products could be end-of-life (EoL) and/or end-of-service (EoS). Users should discontinue product utilization.,2025-08-05
