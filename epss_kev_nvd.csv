@@ -1,7 +1,7 @@
 CVE,CVSS3,EPSS,EPSS Percentile,Description,Date
 CVE-2025-48384,8.0,0.0002,0.03444,Git contains a link following vulnerability that stems from Git’s inconsistent handling of carriage return characters in configuration files.,2025-08-25
 CVE-2024-8068,8.0,0.00092,0.26917,Citrix Session Recording contains an improper privilege management vulnerability that could allow for privilege escalation to NetworkService Account access. An attacker must be an authenticated user in the same Windows Active Directory domain as the session recording server domain.,2025-08-25
-CVE-2024-8069,8.8,0.53593,0.97895,Citrix Session Recording contains a deserialization of untrusted data vulnerability that allows limited remote code execution with privilege of a NetworkService Account access. Attacker must be an authenticated user on the same intranet as the session recording server.,2025-08-25
+CVE-2024-8069,,0.53593,0.97895,Citrix Session Recording contains a deserialization of untrusted data vulnerability that allows limited remote code execution with privilege of a NetworkService Account access. Attacker must be an authenticated user on the same intranet as the session recording server.,2025-08-25
 CVE-2025-43300,8.8,0.00903,0.74738,"Apple iOS, iPadOS, and macOS contain an out-of-bounds write vulnerability in the Image I/O framework.",2025-08-21
 CVE-2025-54948,9.4,0.18488,0.94991,Trend Micro Apex One Management Console (on-premise) contains an OS command injection vulnerability that could allow a pre-authenticated remote attacker to upload malicious code and execute commands on affected installations.,2025-08-18
 CVE-2025-8876,8.8,0.23465,0.9575,N-able N-Central contains a command injection vulnerability via improper sanitization of user input.,2025-08-13
