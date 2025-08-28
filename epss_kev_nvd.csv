@@ -1,5 +1,5 @@
 CVE,CVSS3,EPSS,EPSS Percentile,Description,Date
-CVE-2025-7775,,0.07667,0.91518,Citrix NetScaler ADC and NetScaler Gateway contain a memory overflow vulnerability that could allow for remote code execution and/or denial of service.,2025-08-26
+CVE-2025-7775,9.8,0.07667,0.91518,Citrix NetScaler ADC and NetScaler Gateway contain a memory overflow vulnerability that could allow for remote code execution and/or denial of service.,2025-08-26
 CVE-2025-48384,8.0,0.04084,0.88101,Git contains a link following vulnerability that stems from Git’s inconsistent handling of carriage return characters in configuration files.,2025-08-25
 CVE-2024-8068,8.0,0.03964,0.87904,Citrix Session Recording contains an improper privilege management vulnerability that could allow for privilege escalation to NetworkService Account access. An attacker must be an authenticated user in the same Windows Active Directory domain as the session recording server domain.,2025-08-25
 CVE-2024-8069,8.0,0.51715,0.97813,Citrix Session Recording contains a deserialization of untrusted data vulnerability that allows limited remote code execution with privilege of a NetworkService Account access. Attacker must be an authenticated user on the same intranet as the session recording server.,2025-08-25
