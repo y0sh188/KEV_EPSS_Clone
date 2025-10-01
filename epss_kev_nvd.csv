@@ -6,7 +6,7 @@ CVE-2025-20352,7.7,0.01596,0.81056,"Cisco IOS and IOS XE contains a stack-based 
 CVE-2021-21311,7.2,0.9411,0.99904,"Adminer contains a server-side request forgery vulnerability that, when exploited, allows a remote attacker to obtain potentially sensitive information.",2025-09-29
 CVE-2025-20362,6.5,0.00681,0.70764,Cisco Secure Firewall Adaptive Security (ASA) Appliance and Secure Firewall Threat Defense (FTD) Software VPN Web Server contain a missing authorization vulnerability. This vulnerability could be chained with CVE-2025-20333.,2025-09-25
 CVE-2025-20333,9.9,0.00838,0.73911,Cisco Secure Firewall Adaptive Security (ASA) Appliance and Secure Firewall Threat Defense (FTD) Software VPN Web Server contain a buffer overflow vulnerability that allows for remote code execution. This vulnerability could be chained with CVE-2025-20362.,2025-09-25
-CVE-2025-10585,8.8,0.04134,0.88199,Google Chromium contains a type confusion vulnerability in the V8 JavaScript and WebAssembly engine.,2025-09-23
+CVE-2025-10585,9.8,0.04134,0.88199,Google Chromium contains a type confusion vulnerability in the V8 JavaScript and WebAssembly engine.,2025-09-23
 CVE-2025-5086,9.0,0.6422,0.98398,Dassault Systèmes DELMIA Apriso contains a deserialization of untrusted data vulnerability that could lead to a remote code execution.,2025-09-11
 CVE-2025-38352,7.4,0.0058,0.67978,"Linux kernel contains a time-of-check time-of-use (TOCTOU) race condition vulnerability that has a high impact on confidentiality, integrity, and availability.",2025-09-04
 CVE-2025-48543,8.8,0.00085,0.25784,Android Runtime contains a use-after-free vulnerability potentially allowing a chrome sandbox escape leading to local privilege escalation.,2025-09-04
