@@ -1,7 +1,7 @@
 CVE,CVSS3,EPSS,EPSS Percentile,Description,Date
 CVE-2025-12480,9.1,0.52338,0.97791,Gladinet Triofox contains an improper access control vulnerability that allows access to initial setup pages even after setup is complete.,2025-11-12
 CVE-2025-62215,7.0,0.00706,0.71363,Microsoft Windows Kernel contains a race condition vulnerability that allows a local attacker with low-level privileges to escalate privileges. Successful exploitation of this vulnerability could enable the attacker to gain SYSTEM-level access.,2025-11-12
-CVE-2025-9242,,0.60326,0.98183,WatchGuard Firebox contains an out-of-bounds write vulnerability in the OS iked process that may allow a remote unauthenticated attacker to execute arbitrary code.,2025-11-12
+CVE-2025-9242,9.8,0.60326,0.98183,WatchGuard Firebox contains an out-of-bounds write vulnerability in the OS iked process that may allow a remote unauthenticated attacker to execute arbitrary code.,2025-11-12
 CVE-2025-21042,8.8,0.21609,0.95495,Samsung mobile devices contain an out-of-bounds write vulnerability in libimagecodec.quram.so. This vulnerability could allow remote attackers to execute arbitrary code.,2025-11-10
 CVE-2025-48703,9.0,0.57823,0.98065,CWP Control Web Panel (formerly CentOS Web Panel) contains an OS command Injection vulnerability that allows unauthenticated remote code execution via shell metacharacters in the t_total parameter in a filemanager changePerm request. A valid non-root username must be known.,2025-11-04
 CVE-2025-11371,7.5,0.30979,0.96526,Gladinet CentreStack and Triofox contains a files or directories accessible to external parties vulnerability that allows unintended disclosure of system files.,2025-11-04
