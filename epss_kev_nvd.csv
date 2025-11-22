@@ -1053,7 +1053,7 @@ CVE-2015-2387,7.8,0.31208,0.96556,ATMFD.DLL in the Adobe Type Manager Font Drive
 CVE-2015-1701,7.8,0.89657,0.99527,An unspecified vulnerability exists in the Win32k.sys kernel-mode driver in Microsoft Windows Server that allows a local attacker to execute arbitrary code with elevated privileges.,2022-03-03
 CVE-2015-1642,7.8,0.72879,0.98714,Microsoft Office contains a memory corruption vulnerability that allows remote attackers to execute arbitrary code via a crafted document.,2022-03-03
 CVE-2014-4114,7.8,0.92305,0.99702,A vulnerability exists in Windows Object Linking & Embedding (OLE) that could allow remote code execution if a user opens a file that contains a specially crafted OLE object.,2022-03-03
-CVE-2014-0496,9.8,0.66096,0.98434,Adobe Reader and Acrobat contain a use-after-free vulnerability which can allow for code execution.,2022-03-03
+CVE-2014-0496,8.8,0.66096,0.98434,Adobe Reader and Acrobat contain a use-after-free vulnerability which can allow for code execution.,2022-03-03
 CVE-2013-5065,7.8,0.63758,0.98321,Microsoft Windows NDProxy.sys in the kernel contains an improper input validation vulnerability which can allow a local attacker to escalate privileges.,2022-03-03
 CVE-2013-3897,8.8,0.88246,0.99452,A use-after-free vulnerability exists within CDisplayPointer in Microsoft Internet Explorer that allows an attacker to remotely execute arbitrary code.,2022-03-03
 CVE-2013-3346,9.8,0.89914,0.99541,Adobe Reader and Acrobat contain a memory corruption vulnerability which can allow attackers to execute arbitrary code or cause a denial of service.,2022-03-03
