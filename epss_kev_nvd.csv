@@ -1,5 +1,5 @@
 CVE,CVSS3,EPSS,EPSS Percentile,Description,Date
-CVE-2009-0556,,0.47548,0.97589,Microsoft Office PowerPoint contains a code injection vulnerability that allows remote attackers to execute arbitrary code via a PowerPoint file with an OutlineTextRefAtom containing an invalid index value that triggers memory corruption.,2026-01-07
+CVE-2009-0556,8.8,0.47548,0.97589,Microsoft Office PowerPoint contains a code injection vulnerability that allows remote attackers to execute arbitrary code via a PowerPoint file with an OutlineTextRefAtom containing an invalid index value that triggers memory corruption.,2026-01-07
 CVE-2025-37164,10.0,0.73344,0.98748,Hewlett Packard Enterprise OneView contains a code injection vulnerability that allows a remote unauthenticated user to perform remote code execution.,2026-01-07
 CVE-2025-14847,7.5,0.68325,0.98542,MongoDB Server contains an improper handling of length parameter inconsistency vulnerability in Zlib compressed protocol headers. This vulnerability may allow a read of uninitialized heap memory by an unauthenticated client.,2025-12-29
 CVE-2023-52163,8.8,0.15047,0.94346,Digiever DS-2105 Pro contains a missing authorization vulnerability which could allow for command injection via time_tzsetup.cgi.,2025-12-22
