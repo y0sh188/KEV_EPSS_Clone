@@ -964,7 +964,7 @@ CVE-2015-4068,9.1,0.81937,0.99164,Directory traversal vulnerability in Arcserve 
 CVE-2015-3035,7.5,0.92856,0.99755,Directory traversal vulnerability in multiple TP-Link Archer devices allows remote attackers to read arbitrary files via a .. (dot dot) in the PATH_INFO to login/.,2022-03-25
 CVE-2015-1427,9.8,0.92326,0.99707,The Groovy scripting engine in Elasticsearch allows remote attackers to bypass the sandbox protection mechanism and execute arbitrary shell commands.,2022-03-25
 CVE-2015-1187,9.8,0.81232,0.99127,The ping tool in multiple D-Link and TRENDnet devices allow remote attackers to perform remote code execution.,2022-03-25
-CVE-2015-0666,,0.41425,0.97276,Directory traversal vulnerability in the fmserver servlet in Cisco Prime Data Center Network Manager (DCNM) allows remote attackers to read arbitrary files.,2022-03-25
+CVE-2015-0666,7.5,0.41425,0.97276,Directory traversal vulnerability in the fmserver servlet in Cisco Prime Data Center Network Manager (DCNM) allows remote attackers to read arbitrary files.,2022-03-25
 CVE-2014-6332,8.8,0.94094,0.99902,OleAut32.dll in OLE in Microsoft Windows allows remote attackers to remotely execute code via a crafted web site.,2022-03-25
 CVE-2014-6324,8.8,0.8901,0.99506,The Kerberos Key Distribution Center (KDC) in Microsoft allows remote authenticated domain users to obtain domain administrator privileges.,2022-03-25
 CVE-2014-6287,9.8,0.94363,0.9996,The findMacroMarker function in parserLib.pas in Rejetto HTTP File Server (HFS or HttpFileServer) allows remote attackers to execute arbitrary programs.,2022-03-25
@@ -978,7 +978,7 @@ CVE-2010-4345,7.8,0.04024,0.88131,Exim allows local users to gain privileges by 
 CVE-2010-4344,9.8,0.61461,0.98249,Heap-based buffer overflow in the string_vformat function in string.c in Exim before 4.70 allows remote attackers to execute arbitrary code via an SMTP session.,2022-03-25
 CVE-2010-3035,7.5,0.03262,0.86766,"Cisco IOS XR, when BGP is the configured routing feature, allows remote attackers to cause a denial-of-service (DoS).",2022-03-25
 CVE-2010-2861,9.8,0.94233,0.99922,A directory traversal vulnerability exists in the administrator console in Adobe ColdFusion which allows remote attackers to read arbitrary files.,2022-03-25
-CVE-2009-2055,,0.01671,0.81662,"Cisco IOS XR,when BGP is the configured routing feature, allows remote attackers to cause a denial-of-service (DoS).",2022-03-25
+CVE-2009-2055,5.9,0.01671,0.81662,"Cisco IOS XR,when BGP is the configured routing feature, allows remote attackers to cause a denial-of-service (DoS).",2022-03-25
 CVE-2009-1151,9.8,0.92956,0.99764,Setup script used to generate configuration can be fooled using a crafted POST request to include arbitrary PHP code in generated configuration file.,2022-03-25
 CVE-2009-0927,8.8,0.93673,0.99834,Stack-based buffer overflow in Adobe Reader and Adobe Acrobat allows remote attackers to execute arbitrary code.,2022-03-25
 CVE-2005-2773,9.8,0.89464,0.99528,HP OpenView Network Node Manager could allow a remote attacker to execute arbitrary commands on the system.,2022-03-25
