@@ -1,5 +1,5 @@
 CVE,CVSS3,EPSS,EPSS Percentile,Description,Date
-CVE-2025-8110,,0.02813,0.85705,Gogs contains a path traversal vulnerability affecting improper Symbolic link handling in the PutContents API that could allow for code execution.,2026-01-12
+CVE-2025-8110,8.8,0.02813,0.85705,Gogs contains a path traversal vulnerability affecting improper Symbolic link handling in the PutContents API that could allow for code execution.,2026-01-12
 CVE-2009-0556,8.8,0.76763,0.98902,Microsoft Office PowerPoint contains a code injection vulnerability that allows remote attackers to execute arbitrary code via a PowerPoint file with an OutlineTextRefAtom containing an invalid index value that triggers memory corruption.,2026-01-07
 CVE-2025-37164,10.0,0.8131,0.9913,Hewlett Packard Enterprise (HPE) OneView contains a code injection vulnerability that allows a remote unauthenticated user to perform remote code execution.,2026-01-07
 CVE-2025-14847,7.5,0.67158,0.98498,MongoDB Server contains an improper handling of length parameter inconsistency vulnerability in Zlib compressed protocol headers. This vulnerability may allow a read of uninitialized heap memory by an unauthenticated client.,2025-12-29
