@@ -1,4 +1,5 @@
 CVE,CVSS3,EPSS,EPSS Percentile,Description,Date
+CVE-2026-25108,,0.0033,0.5552,Soliton Systems K.K FileZen contains an OS command injection vulnerability when an user logs-in to the affected product and sends a specially crafted HTTP request.,2026-02-24
 CVE-2025-49113,9.9,0.89369,0.99532,RoundCube Webmail contains a deserialization of untrusted data vulnerability that allows remote code execution by authenticated users because the _from parameter in a URL is not validated in program/actions/settings/upload.php.,2026-02-20
 CVE-2025-68461,7.2,0.06893,0.91207,RoundCube Webmail contains a cross-site scripting vulnerability via the animate tag in an SVG document.,2026-02-20
 CVE-2021-22175,6.8,0.75692,0.98873,GitLab contains a server-side request forgery (SSRF) vulnerability when requests to the internal network for webhooks are enabled.,2026-02-18
