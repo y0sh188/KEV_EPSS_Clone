@@ -1,4 +1,5 @@
 CVE,CVSS3,EPSS,EPSS Percentile,Description,Date
+CVE-2025-47813,4.3,0.00549,0.67634,Wing FTP Server contains a generation of error message containing sensitive information vulnerability when using a long value in the UID cookie.,2026-03-16
 CVE-2026-3910,8.8,0.21893,0.95677,"Google Chromium V8 contains an improper restriction of operations within the bounds of a memory buffer vulnerability that could allow a remote attacker to execute arbitrary code inside a sandbox via a crafted HTML page. This vulnerability could affect multiple web browsers that utilize Chromium, including, but not limited to, Google Chrome, Microsoft Edge, and Opera.",2026-03-13
 CVE-2026-3909,8.8,0.27115,0.96313,"Google Skia contains an out-of-bounds write vulnerability that could allow a remote attacker to perform out of bounds memory access via a crafted HTML page. This vulnerability affects Google Chrome and ChromeOS, Android, Flutter, and possibly other products.",2026-03-13
 CVE-2025-68613,9.9,0.76931,0.98937,n8n contains an improper control of dynamically managed code resources vulnerability in its workflow expression evaluation system that allows for remote code execution.,2026-03-11
