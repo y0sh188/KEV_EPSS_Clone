@@ -1,4 +1,5 @@
 CVE,CVSS3,EPSS,EPSS Percentile,Description,Date
+CVE-2026-33017,9.8,0.00592,0.69079,Langflow contains a code injection vulnerability that could allow building public flows without requiring authentication.,2026-03-25
 CVE-2025-32432,10.0,0.89107,0.99523,Craft CMS contains a code injection vulnerability that allows a remote attacker to execute arbitrary code.,2026-03-20
 CVE-2025-54068,9.8,0.45981,0.97597,Laravel Livewire contain a code injection vulnerability that could allow unauthenticated attackers to achieve remote command execution in specific scenarios.,2026-03-20
 CVE-2025-43510,7.8,0.00462,0.63985,"Apple watchOS, iOS, iPadOS, macOS, visionOS, and tvOS contain an improper locking vulnerability that could allow a malicious application to cause unexpected changes in memory shared between processes.",2026-03-20
