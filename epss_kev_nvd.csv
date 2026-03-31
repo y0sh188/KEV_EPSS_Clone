@@ -1,4 +1,5 @@
 CVE,CVSS3,EPSS,EPSS Percentile,Description,Date
+CVE-2026-3055,,0.00026,0.07103,"Citrix NetScaler ADC (formerly Citrix ADC), NetScaler Gateway (formerly Citrix Gateway) and NetScaler ADC FIPS and NDcPP contain an out-of-bounds reads vulnerability when configured as a SAML IDP leading to memory overread.",2026-03-30
 CVE-2025-53521,9.8,0.19158,0.95312,F5 BIG-IP APM contains an unspecified vulnerability that could allow a threat actor to achieve remote code execution.,2026-03-27
 CVE-2026-33634,8.8,0.20839,0.95573,"Aquasecurity Trivy contains an embedded malicious code vulnerability that could allow an attacker to gain access to everything in the CI/CD environment, including all tokens, SSH keys, cloud credentials, database passwords, and any sensitive configuration in memory.",2026-03-26
 CVE-2026-33017,9.8,0.05654,0.90316,Langflow contains a code injection vulnerability that could allow building public flows without requiring authentication.,2026-03-25
