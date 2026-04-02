@@ -1,4 +1,5 @@
 CVE,CVSS3,EPSS,EPSS Percentile,Description,Date
+CVE-2026-5281,,0.00038,0.11256,"Google Dawn contains an use-after-free vulnerability that could allow a remote attacker who had compromised the renderer process to execute arbitrary code via a crafted HTML page. This vulnerability could affect multiple Chromium-based products including, but not limited to, Google Chrome, Microsoft Edge, and Opera.",2026-04-01
 CVE-2026-3055,9.8,0.44301,0.97532,"Citrix NetScaler ADC (formerly Citrix ADC), NetScaler Gateway (formerly Citrix Gateway) and NetScaler ADC FIPS and NDcPP contain an out-of-bounds reads vulnerability when configured as a SAML IDP leading to memory overread.",2026-03-30
 CVE-2025-53521,9.8,0.41408,0.97377,F5 BIG-IP APM contains an unspecified vulnerability that could allow a threat actor to achieve remote code execution.,2026-03-27
 CVE-2026-33634,8.8,0.21153,0.95625,"Aquasecurity Trivy contains an embedded malicious code vulnerability that could allow an attacker to gain access to everything in the CI/CD environment, including all tokens, SSH keys, cloud credentials, database passwords, and any sensitive configuration in memory.",2026-03-26
