@@ -1,4 +1,5 @@
 CVE,CVSS3,EPSS,EPSS Percentile,Description,Date
+CVE-2026-34197,8.8,0.06217,0.90903,Apache ActiveMQ contains an improper input validation vulnerability that allows for code injection.,2026-04-16
 CVE-2009-0238,,0.81142,0.99161,Microsoft Office Excel contains a remote code execution vulnerability that could allow an attacker to take complete control of an affected system if a user opens a specially crafted Excel file that includes a malformed object.,2026-04-14
 CVE-2012-1854,7.8,0.1007,0.93096,Microsoft Visual Basic for Applications (VBA) contains an insecure library loading vulnerability that could allow for remote code execution.,2026-04-13
 CVE-2025-60710,7.8,0.12574,0.93966,Microsoft Windows contains a link following vulnerability that allows for privilege escalation,2026-04-13
