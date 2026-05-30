@@ -1,4 +1,5 @@
 CVE,CVSS3,EPSS,EPSS Percentile,Description,Date
+CVE-2026-0257,,0.00065,0.2037,Palo Alto Networks PAN-OS contains an authentication bypass vulnerability that allows attackers to bypass security restrictions and establish an unauthorized VPN connection.,2026-05-29
 CVE-2026-48027,9.8,0.26849,0.96445,Nx Console contains an embedded malicious code vulnerability that allowed a malicious version of Nx Console to be published. The compromised extension fetched an obfuscated payload that could harvested credentials from multiple sources on disk and in memory.,2026-05-27
 CVE-2026-45321,9.6,0.15085,0.94692,TanStack contains an unspecified vulnerability that allowed malicious versions of the product to be published to the npm registry to publish credential-stealing malware under a trusted identity.,2026-05-27
 CVE-2026-8398,9.8,0.1439,0.94527,"Daemon Tools contains an unspecified vulnerability that has a high impact on confidentiality, integrity, and availability.",2026-05-27
