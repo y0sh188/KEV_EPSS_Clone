@@ -1,4 +1,5 @@
 CVE,CVSS3,EPSS,EPSS Percentile,Description,Date
+CVE-2026-45247,9.8,0.00137,0.33287,Mirasvit Full Page Cache Warmer contains a deserialization of untrusted data vulnerability that could allow unauthenticated attackers to achieve remote code execution by supplying a crafted serialized PHP object in the CacheWarmer cookie.,2026-06-03
 CVE-2022-0492,7.8,0.26341,0.96409,Linux Kernel contains an improper authentication vulnerability which could allow for privilege escalation via the cgroups v1 release_agent feature.,2026-06-02
 CVE-2025-48595,8.4,0.00401,0.6108,Android Framework contains an integer overflow vulnerability that allows for code execution that could allow for local privilege escalation.,2026-06-02
 CVE-2024-21182,7.5,0.89649,0.99581,"Oracle WebLogic contains an unspecified vulnerability that could allow an unauthenticated attacker with network access via T3, IIOP to compromise Oracle WebLogic Server. Successful attacks of this vulnerability can result in unauthorized access to critical data or complete access to all Oracle WebLogic Server accessible data.",2026-06-01
