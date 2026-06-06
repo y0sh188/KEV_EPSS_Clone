@@ -1,4 +1,5 @@
 CVE,CVSS3,EPSS,EPSS Percentile,Description,Date
+CVE-2026-28318,7.5,0.00062,0.1965,SolarWinds Serv-U contains an uncontrolled resource consumption vulnerability that allows specially crafted POST requests using the Content-Encoding: deflate header to crash the Serv-U service without authentication.,2026-06-05
 CVE-2026-45247,9.8,0.06149,0.90988,Mirasvit Full Page Cache Warmer contains a deserialization of untrusted data vulnerability that could allow unauthenticated attackers to achieve remote code execution by supplying a crafted serialized PHP object in the CacheWarmer cookie.,2026-06-03
 CVE-2022-0492,7.8,0.28973,0.96662,Linux Kernel contains an improper authentication vulnerability which could allow for privilege escalation via the cgroups v1 release_agent feature.,2026-06-02
 CVE-2025-48595,8.4,0.00401,0.61149,Android Framework contains an integer overflow vulnerability that allows for code execution that could allow for local privilege escalation.,2026-06-02
