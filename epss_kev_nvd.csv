@@ -1,4 +1,8 @@
 CVE,CVSS3,EPSS,EPSS Percentile,Description,Date
+CVE-2025-67038,9.8,0.00469,0.36913,Lantronix EDS5000 contains a code injection vulnerability that could allow attackers to inject arbitrary OS commands into the username parameter. Injected commands are executed with root privileges.,2026-06-23
+CVE-2026-34910,10.0,0.33615,0.98163,Ubiquiti UniFi OS contains an improper input validation vulnerability which could allow a malicious actor with access to the network to conduct command injection.,2026-06-23
+CVE-2026-34909,10.0,0.00895,0.54838,Ubiquiti UniFi OS contains a path traversal vulnerability which could allow a malicious actor with access to the network to access files on the underlying system that could be manipulated to access an underlying account.,2026-06-23
+CVE-2026-34908,10.0,0.0086,0.53745,Ubiquiti UniFi OS contains an improper access control vulnerability which could allow a malicious actor with access to the network to make unauthorized changes to the system.,2026-06-23
 CVE-2026-20253,9.8,0.921,0.99807,Splunk Enterprise contains a missing authentication for critical function vulnerability which could allow an unauthenticated user to create or truncate arbitrary files through a PostgreSQL sidecar service endpoint.,2026-06-18
 CVE-2026-48907,9.8,0.80425,0.99569,Widget Factory Joomla Content Editor contains an improper access control vulnerability which could allow for upload and execution of PHP code via the creation of new editor profiles for unauthenticated users. ,2026-06-16
 CVE-2026-54420,8.5,0.01261,0.65817,LiteSpeed cPanel plugin contains a UNIX symbolic link (Symlink) following vulnerability that could allow a user with FTP or web shell access on a shared hosting server running CloudLinux/CageFS.,2026-06-15
