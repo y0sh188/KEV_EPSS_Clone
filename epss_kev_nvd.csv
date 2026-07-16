@@ -1,4 +1,6 @@
 CVE,CVSS3,EPSS,EPSS Percentile,Description,Date
+CVE-2026-46817,9.8,0.00677,0.48111,Oracle E-Business Suite contains an improper privilege management vulnerability that allows an unauthenticated attacker with network access via HTTP to compromise Oracle Payments. Successful attacks of this vulnerability can result in takeover of Oracle Payments.,2026-07-15
+CVE-2023-4346,7.5,0.00483,0.38438,KNX Association KNX Protocol Connection Authorization Option 1 contains an overly restrictive account lockout mechanism vulnerability that could allow an attacker to purge all devices without additional security options enabled and set a BCU key to lock the device. ,2026-07-15
 CVE-2026-56155,7.8,0.00379,0.30119,Microsoft Active Directory Federation Services contains an insufficient granularity of access control vulnerability that allows an authorized attacker to elevate privileges locally.,2026-07-14
 CVE-2026-56164,5.3,0.07047,0.93465,Microsoft SharePoint contains a missing authentication for critical function vulnerability that allows an unauthorized attacker to elevate privileges over a network.,2026-07-14
 CVE-2026-15409,10.0,0.01404,0.69483,SonicWall SMA1000 Appliances contain a server-side request forgery vulnerability that could allow a remote unauthenticated attacker to potentially cause the appliance to make requests to unintended location.,2026-07-14
