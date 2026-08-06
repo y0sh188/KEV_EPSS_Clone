@@ -1,4 +1,5 @@
 CVE,CVSS3,EPSS,EPSS Percentile,Description,Date
+CVE-2026-63077,9.8,0.00649,0.47585,JetBrains TeamCity contains a deserialization of untrusted data vulnerability that could allow unauthenticated remote code execution via the agent polling protocol.,2026-08-05
 CVE-2026-18556,7.4,0.00492,0.39605,N-able N-central contains an authentication bypass using an alternate path or channel that allows for authentication bypass.,2026-08-04
 CVE-2026-34486,7.5,0.8116,0.99598,Apache Tomcat contains a missing encryption of sensitive data vulnerability that allows the bypass of the EncryptInterceptor.,2026-08-04
 CVE-2026-9198,9.8,0.17053,0.96771,Langflow contains a code injection vulnerability that allows unauthenticated attackers to achieve full remote code execution on default Langflow deployments.,2026-08-04
