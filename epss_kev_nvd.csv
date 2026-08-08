@@ -1,4 +1,5 @@
 CVE,CVSS3,EPSS,EPSS Percentile,Description,Date
+CVE-2026-8037,9.6,0.84793,0.99688,Progress LoadMaster contains a command injection vulnerability that allows an un-authenticated attacker to execute arbitrary commands on the LoadMaster appliance by exploiting unsanitized input in multiple command endpoints.,2026-08-07
 CVE-2026-63077,9.8,0.0101,0.59827,JetBrains TeamCity contains a deserialization of untrusted data vulnerability that could allow unauthenticated remote code execution via the agent polling protocol.,2026-08-05
 CVE-2026-18556,7.4,0.00492,0.39697,N-able N-central contains an authentication bypass using an alternate path or channel that allows for authentication bypass.,2026-08-04
 CVE-2026-34486,7.5,0.8116,0.99598,Apache Tomcat contains a missing encryption of sensitive data vulnerability that allows the bypass of the EncryptInterceptor. This vulnerability can be chained with CVE‑2025‑24813.,2026-08-04
