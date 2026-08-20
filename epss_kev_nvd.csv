@@ -1,4 +1,5 @@
 CVE,CVSS3,EPSS,EPSS Percentile,Description,Date
+CVE-2026-64849,9.3,0.01109,0.6328,MLflow contains a server-side request forgery vulnerability that can allow attackers to reach internal or cloud metadata services and receive response_status and response_body.,2026-08-19
 CVE-2026-33824,9.8,0.77898,0.99536,Microsoft Internet Key Exchange (IKE) Service Extensions contains a double free vulnerability that could enable remote code execution.,2026-08-18
 CVE-2026-59310,9.8,0.02405,0.82739,Broadcom VMware vCenter contains a path traversal vulnerability which could allow a threat actor with network access to vCenter to execute arbitrary code.,2026-08-18
 CVE-2026-55040,9.1,0.05489,0.92135,Microsoft SharePoint contains a weak authentication vulnerability which allows an unauthorized attacker to bypass a security feature over a network.,2026-08-18
