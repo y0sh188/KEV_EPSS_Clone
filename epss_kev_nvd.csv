@@ -1,4 +1,6 @@
 CVE,CVSS3,EPSS,EPSS Percentile,Description,Date
+CVE-2026-105134,10.0,0.01843,0.78594,Ahsay AhsayCBS contains a command injection vulnerability that could allow a remote attacker to execute operating system commands via manipulation of the random parameter in the Replication Receiver component’s /rps/api/json/UpdateReceivers.do endpoint. This vulnerability can be chained with CVE-2026-105133.,2026-10-14
+CVE-2026-105133,7.3,0.00383,0.30672,Ahsay AhsayCBS contains an improper authentication vulnerability that could allow a remote attacker to bypass authentication via manipulation of the random parameter in the API component’s checkSysPwd function. This vulnerability can be chained with CVE-2026-105134.,2026-10-14
 CVE-2026-104935,8.6,0.25982,0.97961,Ivanti Connect Secure contains an authentication bypass by spoofing vulnerability that allows a remote unauthenticated attacker to execute arbitrary commands.,2026-10-13
 CVE-2026-96951,8.8,0.01506,0.73847,Microsoft Windows Shell contains a command injection vulnerability that allows an unauthorized attacker to bypass a security feature over a network.,2026-10-13
 CVE-2015-5477,7.5,0.99409,0.99942,ISC BIND contains a data processing errors vulnerability that could allow remote attackers to cause a denial of service via TKEY queries.,2026-10-08
